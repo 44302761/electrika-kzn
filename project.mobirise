@@ -69,7 +69,7 @@
     "uniqCompNum": 49,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/buckle-wt124as-128x89_2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/buckle-wt124as-128x89-2.png",
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
