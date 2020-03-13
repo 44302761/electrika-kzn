@@ -1,1 +1,1 @@
-# electrika-kzn.github.io
+# Electrika-kzn.github.io
